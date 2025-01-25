@@ -54,7 +54,7 @@ If you like the project, you can support it by giving it a star!
 If you'd like to contribute, please follow these steps:  
 
 1. 🍴 Fork this repository  
-2. 👯 Clone the fork (git clone https://github.com/parsherr/Linktree_benzeri_site.git)  
+2. 👯 Clone the fork (git clone https://github.com/TunarJamalov/linktree_copy.github.io.git)  
 3. 📝 Create a new branch (git checkout -b feature-name)  
 4. 🔧 Make your changes  
 5. ✅ Commit your changes (git commit -m 'Added a new feature')  
