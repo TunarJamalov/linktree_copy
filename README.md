@@ -20,8 +20,8 @@ Follow the steps below to set up the project:
 
 1. 🎯 Step 1: Clone the repository  
    ```bash  
-   git clone https://github.com/TunarJamalov/linktree_copy
-   cd linktree_copy
+   git clone https://github.com/tunarjamalov  
+   cd Linktree_benzeri_site  
    ```  
 
 2. 📦 Step 2: Open the folder  
@@ -54,7 +54,7 @@ If you like the project, you can support it by giving it a star!
 If you'd like to contribute, please follow these steps:  
 
 1. 🍴 Fork this repository  
-2. 👯 Clone the fork (git clone https://github.com/TunarJamalov/linktree_copy)  
+2. 👯 Clone the fork (git clone https://github.com/parsherr/Linktree_benzeri_site.git)  
 3. 📝 Create a new branch (git checkout -b feature-name)  
 4. 🔧 Make your changes  
 5. ✅ Commit your changes (git commit -m 'Added a new feature')  
