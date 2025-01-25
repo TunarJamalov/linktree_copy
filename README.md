@@ -20,7 +20,7 @@ Follow the steps below to set up the project:
 
 1. 🎯 Step 1: Clone the repository  
    ```bash  
-   git clone https://github.com/tunarjamalov  
+   git clone https://github.com/TunarJamalov/linktree_copy.github.io.git
    cd linktree_copy.github.io
    ```  
 
