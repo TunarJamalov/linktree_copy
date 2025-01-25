@@ -21,7 +21,7 @@ Follow the steps below to set up the project:
 1. 🎯 Step 1: Clone the repository  
    ```bash  
    git clone https://github.com/tunarjamalov  
-   cd Linktree_benzeri_site  
+   cd linktree_copy.github.io
    ```  
 
 2. 📦 Step 2: Open the folder  
